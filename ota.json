@@ -17,7 +17,12 @@
       "firmware": "https://xmfirmwareupdater.com/firmware/chenfeng/stable/OS3.0.307.0.WNJCNXM/",
       "paypal": "https://github.com/marcmyworld",
       "github": "marcmyworld",
-      "initial_installation_images": [],
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "recovery",
+        "vendor_boot"
+      ],
       "extra_images": []
     }
   ]
