@@ -1,1 +1,24 @@
-
+{
+  "response": [
+    {
+      "maintainer": "marc",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Xiaomi 14 Civi / Civi 4 Pro",
+      "filename": "EvolutionX-17.0-20261001-chenfeng-12.2-Unofficial.zip",
+      "download": "https://sf.neonsmp.eu.org/chenfeng-builds/files/AOSP/EvolutionX/EvolutionX-17.0-20261001-chenfeng-12.2-Unofficial.zip?download=1",
+      "timestamp": 1790864759,
+      "md5": "8c00b1734ade0c603671f7482c887072",
+      "sha256": "bef8002253cd38b801332c4c0e1cef7c0df170d38ac83de9b31b522d1b378f7d",
+      "size": 4146612622,
+      "version": "12.2",
+      "buildtype": "user",
+      "forum": "https://t.me/Xiaomi_14_civi_support",
+      "firmware": "https://xmfirmwareupdater.com/firmware/chenfeng/stable/OS3.0.307.0.WNJCNXM/",
+      "paypal": "https://github.com/marcmyworld",
+      "github": "marcmyworld",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
